@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f9c6488-46a9-49a0-841f-35a835529055" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Challenge10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PennylaneChallenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PennylaneChallenges.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenge5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -42,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Challenge1.executor": "Run",
+    "Python.Challenge12.executor": "Run",
     "Python.Challenge2.executor": "Run",
     "Python.Challenge3.executor": "Run",
     "Python.Challenge4.executor": "Run",
@@ -53,6 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/alexandreboutot/Projects/PennylaneChallenges",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,6 +112,7 @@
       <workItem from="1707426050192" duration="12987000" />
       <workItem from="1707533607216" duration="107000" />
       <workItem from="1707533719497" duration="2747000" />
+      <workItem from="1707682141435" duration="2222000" />
     </task>
     <servers />
   </component>
@@ -124,8 +126,9 @@
     <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge5.coverage" NAME="Challenge5 Coverage Results" MODIFIED="1706582393578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge4.coverage" NAME="Challenge4 Coverage Results" MODIFIED="1706509479974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge7.coverage" NAME="Challenge7 Coverage Results" MODIFIED="1707444562215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge12.coverage" NAME="Challenge12 Coverage Results" MODIFIED="1707687983592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge1.coverage" NAME="Challenge1 Coverage Results" MODIFIED="1706503639332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge6.coverage" NAME="Challenge6 Coverage Results" MODIFIED="1707427338959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge8.coverage" NAME="Challenge8 Coverage Results" MODIFIED="1707535367620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PennylaneChallenges$Challenge8.coverage" NAME="Challenge8 Coverage Results" MODIFIED="1707687977353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
